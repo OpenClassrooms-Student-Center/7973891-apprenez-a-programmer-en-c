@@ -1,6 +1,7 @@
 ﻿using P2C4._1;
 
-// Affiche la température moyenne à partir des valeurs fournies comme arguments en ligne de commande
+// Le programme affiche la température moyenne à partir des valeurs fournies comme arguments en ligne de commande
+
 List<int> temperaturesEnregistreDegresCelcius = new List<int>();
 
 // Remplir la liste à partir des valeurs fournies comme arguments en ligne de commande
