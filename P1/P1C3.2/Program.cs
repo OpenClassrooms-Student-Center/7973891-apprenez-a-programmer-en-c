@@ -1,3 +1,8 @@
-﻿//TODO
+﻿string premierString = "chiens";
+string secondString = "chats";
 
-Console.WriteLine("Hello World");
+// TODO: créer un nouveau string animals disant 'j'aime les chiens et chats!'
+
+
+// Afficher le résultat
+Console.WriteLine(animals);

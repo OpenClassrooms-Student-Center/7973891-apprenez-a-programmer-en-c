@@ -1,3 +1,3 @@
 ﻿# Instructions
-En dessous du commentaire TODO, créez un nouvelle variable animals qui contient le string J'aime les chiens et les chats !
-Contacaténez cette variable avec le "Console.Writleline" déjà présent
+
+- En dessous du commentairte TODO, créez un nouveau string nommé 'animals' disant 'J'aime les chiens et chats!'
