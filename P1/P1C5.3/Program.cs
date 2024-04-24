@@ -12,7 +12,7 @@ ingredients.Add("vanille");
 
 // Afficher la liste des ingrédients
 Console.WriteLine("Voici la liste de nos ingrédients");
-foreach (String ingredient in ingredients)
+foreach (string ingredient in ingredients)
 {
     Console.WriteLine(ingredient);
 }
